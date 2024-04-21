@@ -57,7 +57,9 @@
     box-shadow: inset -7px -7px 10px rgba(5, 64, 84, 0.5)
 }
 main{
-    background-image: url(Assets/photos/bg.jpg);
+    background-image: url(Assets/photos/bg.jpg);  
+    background-repeat: no-repeat;
+    background-position: center;
     clear: both;
 }
 .main-section{
@@ -105,6 +107,8 @@ main{
 }
 .final{
     background-image: url(Assets/photos/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
     height: 600px;
   
